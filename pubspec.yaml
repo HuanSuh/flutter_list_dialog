@@ -1,0 +1,19 @@
+name: flutter_list_dialog
+description: A Flutter package for dialog with list items, Checkbox-list items or Radio-list items.
+author: HuanSuh <huansuh@gmail.com>
+version: 0.1.0
+homepage: https://github.com/HuanSuh/flutter_list_dialog
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^4.0.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
